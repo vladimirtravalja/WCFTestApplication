@@ -1,0 +1,13 @@
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\bin\Debug\WCFClientApplication.exe.config
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\bin\Debug\WCFClientApplication.exe
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\bin\Debug\WCFClientApplication.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.Form1.resources
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.Properties.Resources.resources
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.csproj.GenerateResource.Cache
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.exe
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\bin\Debug\WCFClientApplication.exe.manifest
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\bin\Debug\WCFClientApplication.application
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.exe.manifest
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.application
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFClientApplication\obj\Debug\WCFClientApplication.csprojResolveAssemblyReference.cache

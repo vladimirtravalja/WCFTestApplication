@@ -1,0 +1,5 @@
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFTestApplication\bin\WCFTestApplication.dll
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFTestApplication\bin\WCFTestApplication.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFTestApplication\obj\Debug\WCFTestApplication.dll
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFTestApplication\obj\Debug\WCFTestApplication.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\WCFTestApplication\WCFTestApplication\obj\Debug\WCFTestApplication.csprojResolveAssemblyReference.cache
